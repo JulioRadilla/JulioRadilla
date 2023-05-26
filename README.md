@@ -1,9 +1,9 @@
 - 👋 Hi, I’m @JulioRadilla
 - 👀 I’m interested in software engineering or programming.
-- 🌱 I’m currently learning Javascript.
+- 🌱 I’m currently learning backend.
 - 💞️ I’m looking to collaborate on projects to do together so I can learn new things.
 - 📫 How to reach me Twitter: 40fourtyl .
-- 🌱 I currently know how to work with html and css, and also currently building my portfolio sites to display my projects.
+- 🌱 I currently know how to work with html and css, tailwindCSS, nodeJs, and Javascript.
 
 <!---
 JulioRadilla/JulioRadilla is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
