@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @JulioRadilla
-- 👀 I’m interested in software engineering or programming.
+- 👀 I’m interested in software engineering.
 - 🌱 I’m currently learning backend.
-- 💞️ I’m looking to collaborate on projects to do together so I can learn new things.
+- 💞️ I’m looking to collaborate on projects to do together so I can learn new things especially projects that will help out people's lives.
 - 📫 How to reach me Twitter: 40fourtyl .
 - 🌱 I currently know how to work with html and css, tailwindCSS, nodeJs, and Javascript.
 
